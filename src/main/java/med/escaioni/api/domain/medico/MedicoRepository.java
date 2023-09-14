@@ -1,4 +1,4 @@
-package med.escaioni.api.medico;
+package med.escaioni.api.domain.medico;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

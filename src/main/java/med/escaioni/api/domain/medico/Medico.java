@@ -1,8 +1,8 @@
-package med.escaioni.api.medico;
+package med.escaioni.api.domain.medico;
 
 import jakarta.persistence.*;
 import lombok.*;
-import med.escaioni.api.endereco.Endereco;
+import med.escaioni.api.domain.endereco.Endereco;
 
 
 @Table(name = "medicos")

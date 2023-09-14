@@ -1,6 +1,6 @@
-package med.escaioni.api.paciente;
+package med.escaioni.api.domain.paciente;
 
-import med.escaioni.api.endereco.Endereco;
+import med.escaioni.api.domain.endereco.Endereco;
 
 public record DadosDetalhamentoPaciente(
         String nome,

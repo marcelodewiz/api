@@ -1,6 +1,6 @@
-package med.escaioni.api.medico;
+package med.escaioni.api.domain.medico;
 
-import med.escaioni.api.endereco.Endereco;
+import med.escaioni.api.domain.endereco.Endereco;
 
 public record DadosDetalhamentoMedico(
         Long id,

@@ -1,4 +1,4 @@
-package med.escaioni.api.endereco;
+package med.escaioni.api.domain.endereco;
 
 import jakarta.persistence.Embeddable;
 import lombok.*;

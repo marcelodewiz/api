@@ -1,7 +1,7 @@
 package med.escaioni.api.controller;
 
 import jakarta.validation.Valid;
-import med.escaioni.api.medico.*;
+import med.escaioni.api.domain.medico.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

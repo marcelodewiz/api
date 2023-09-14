@@ -1,4 +1,4 @@
-package med.escaioni.api.medico;
+package med.escaioni.api.domain.medico;
 
 public enum Especialidade {
 
